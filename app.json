@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8efefd84-1c12-4bea-a03b-94c5ce3ca1f5"
+      }
+    },
+    "owner": "tordillos"
   }
 }
